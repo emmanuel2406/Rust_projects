@@ -1,3 +1,54 @@
 [submodule "adder"]
     path = adder
     url = https://github.com/emmanuel2406/adder.git
+[submodule "array_example"]
+	path = array_example
+	url = https://github.com/emmanuel2406/Rust_projects-array_example.git
+[submodule "centre_of_list"]
+	path = centre_of_list
+	url = https://github.com/emmanuel2406/Rust_projects-centre_of_list.git
+[submodule "department"]
+	path = department
+	url = https://github.com/emmanuel2406/Rust_projects-department.git
+[submodule "errors"]
+	path = errors
+	url = https://github.com/emmanuel2406/Rust_projects-errors.git
+[submodule "fibonacci"]
+	path = fibonacci
+	url = https://github.com/emmanuel2406/Rust_projects-fibonacci.git
+[submodule "guessing_game"]
+	path = guessing_game
+	url = https://github.com/emmanuel2406/Rust_projects-guessing_game.git
+[submodule "hash_map"]
+	path = hash_map
+	url = https://github.com/emmanuel2406/Rust_projects-hash_map.git
+[submodule "hello_cargo"]
+	path = hello_cargo
+	url = https://github.com/emmanuel2406/Rust_projects-hello_cargo.git
+[submodule "hello_world"]
+	path = hello_world
+	url = https://github.com/emmanuel2406/Rust_projects-hello_world.git
+[submodule "minigrep"]
+	path = minigrep
+	url = https://github.com/emmanuel2406/Rust_projects-minigrep.git
+[submodule "my-project"]
+	path = my-project
+	url = https://github.com/emmanuel2406/Rust_projects-my-project.git
+[submodule "pig_latin"]
+	path = pig_latin
+	url = https://github.com/emmanuel2406/Rust_projects-pig_latin.git
+[submodule "rectangles"]
+	path = rectangles
+	url = https://github.com/emmanuel2406/Rust_projects-rectangles.git
+[submodule "sieve-cache-demo"]
+	path = sieve-cache-demo
+	url = https://github.com/emmanuel2406/Rust_projects-sieve-cache-demo.git
+[submodule "summary"]
+	path = summary
+	url = https://github.com/emmanuel2406/Rust_projects-summary.git
+[submodule "temp_convert"]
+	path = temp_convert
+	url = https://github.com/emmanuel2406/Rust_projects-temp_convert.git
+[submodule "restaurant"]
+	path = restaurant
+	url = https://github.com/emmanuel2406/Rust_projects-restaurant.git
