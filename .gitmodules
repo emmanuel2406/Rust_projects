@@ -52,3 +52,6 @@
 [submodule "restaurant"]
 	path = restaurant
 	url = https://github.com/emmanuel2406/Rust_projects-restaurant.git
+[submodule "iterators"]
+	path = iterators
+	url = https://github.com/emmanuel2406/Rust_projects-iterators.git
