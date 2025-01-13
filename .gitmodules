@@ -58,3 +58,6 @@
 [submodule "my_crate"]
 	path = my_crate
 	url = https://github.com/emmanuel2406/Rust_projects-my_crate.git
+[submodule "add"]
+	path = add
+	url = https://github.com/emmanuel2406/Rust_projects-add.git
