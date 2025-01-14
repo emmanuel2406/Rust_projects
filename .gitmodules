@@ -61,3 +61,18 @@
 [submodule "add"]
 	path = add
 	url = https://github.com/emmanuel2406/Rust_projects-add.git
+[submodule "rc"]
+	path = rc
+	url = https://github.com/emmanuel2406/Rust_projects-rc.git
+[submodule "reference_cycle"]
+	path = reference_cycle
+	url = https://github.com/emmanuel2406/Rust_projects-reference_cycle.git
+[submodule "weak_ref"]
+	path = weak_ref
+	url = https://github.com/emmanuel2406/Rust_projects-weak_ref.git
+[submodule "messenger"]
+	path = messenger
+	url = https://github.com/emmanuel2406/Rust_projects-messenger.git
+[submodule "my_box"]
+	path = my_box
+	url = https://github.com/emmanuel2406/Rust_projects-my_box.git
