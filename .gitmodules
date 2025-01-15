@@ -76,3 +76,9 @@
 [submodule "my_box"]
 	path = my_box
 	url = https://github.com/emmanuel2406/Rust_projects-my_box.git
+[submodule "channels"]
+	path = channels
+	url = https://github.com/emmanuel2406/Rust_projects-channels.git
+[submodule "mutex"]
+	path = mutex
+	url = https://github.com/emmanuel2406/Rust_projects-mutex.git
