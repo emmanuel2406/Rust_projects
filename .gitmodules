@@ -82,3 +82,9 @@
 [submodule "mutex"]
 	path = mutex
 	url = https://github.com/emmanuel2406/Rust_projects-mutex.git
+[submodule "blog"]
+	path = blog
+	url = https://github.com/emmanuel2406/Rust_projects-blog.git
+[submodule "gui"]
+	path = gui
+	url = https://github.com/emmanuel2406/Rust_projects-gui.git
