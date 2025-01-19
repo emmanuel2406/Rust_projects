@@ -88,3 +88,9 @@
 [submodule "gui"]
 	path = gui
 	url = https://github.com/emmanuel2406/Rust_projects-gui.git
+[submodule "hello_macro"]
+	path = hello_macro
+	url = https://github.com/emmanuel2406/Rust_projects-hello_macro.git
+[submodule "macros"]
+	path = macros
+	url = https://github.com/emmanuel2406/Rust_projects-macros.git
